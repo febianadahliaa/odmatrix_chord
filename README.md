@@ -1,6 +1,8 @@
 # OD-MATRIX CHORD DIAGRAM - D3
-Visualisasi OD-Matrix (matriks perjalanan) dalam kota madya wilayah Jabodetabek dalam bentuk _chord diagram_. Untuk tutorial dan penjelasan  lebih detail, silahkan kunjungi [Data-based orientation for gradient](https://www.visualcinnamon.com/2016/06/orientation-gradient-d3-chord-diagram)
+Visualisasi OD-Matrix (matriks perjalanan) **dalam kota madya** dan **lintas kota madya** wilayah Jabodetabek dalam bentuk _chord diagram_. Untuk tutorial dan penjelasan  lebih detail, silahkan kunjungi [Data-based orientation for gradient](https://www.visualcinnamon.com/2016/06/orientation-gradient-d3-chord-diagram)
 
+
+## DALAM SATU KOTA MADYA
 * **KOTA JAKARTA BARAT**
 ![jakbar](https://user-images.githubusercontent.com/48954802/77220004-f38e0680-6b6d-11ea-892d-b23390a2784e.png)
 
@@ -30,3 +32,6 @@ Visualisasi OD-Matrix (matriks perjalanan) dalam kota madya wilayah Jabodetabek 
 
 * **KOTA BEKASI**
 ![kotaBekasi](https://user-images.githubusercontent.com/48954802/77220678-28518c00-6b75-11ea-8c27-3d75ab644afb.png)
+
+
+## LINTAS KOTA MADYA
