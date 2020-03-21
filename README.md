@@ -35,3 +35,4 @@ Visualisasi OD-Matrix (matriks perjalanan) **dalam suatu kota madya** dan **lint
 
 
 ## LINTAS KOTA MADYA
+![lintasKota](https://user-images.githubusercontent.com/48954802/77239191-43baa680-6c0a-11ea-80b1-8b770bb589de.png)
