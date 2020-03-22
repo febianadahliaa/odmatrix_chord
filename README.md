@@ -1,5 +1,5 @@
 # OD-MATRIX CHORD DIAGRAM - D3
-Visualisasi OD-Matrix (matriks perjalanan) **dalam suatu kota madya** dan **lintas kota madya** wilayah Jabodetabek dalam bentuk _chord diagram_. Untuk tutorial dan penjelasan  lebih detail, silahkan kunjungi [Data-based orientation for gradient](https://www.visualcinnamon.com/2016/06/orientation-gradient-d3-chord-diagram)
+Visualisasi OD-Matrix (matriks perjalanan) **dalam suatu kota madya** dan **lintas kota madya** wilayah Jabodetabek dalam bentuk _chord diagram_. Untuk tutorial dan penjelasan  lebih detail, silahkan kunjungi [Data-based orientation for gradient](https://www.visualcinnamon.com/2016/06/orientation-gradient-d3-chord-diagram).
 
 
 ## DALAM SATU KOTA MADYA
