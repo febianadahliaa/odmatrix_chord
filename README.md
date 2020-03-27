@@ -4,7 +4,7 @@ Visualisasi OD-Matrix (matriks perjalanan) **dalam suatu kota madya** dan **lint
 
 ## DALAM SATU KOTA MADYA
 * **KOTA JAKARTA BARAT**
-![jakbar](https://user-images.githubusercontent.com/48954802/77220004-f38e0680-6b6d-11ea-892d-b23390a2784e.png)
+![jakbar](https://user-images.githubusercontent.com/48954802/77762053-8269ba00-706b-11ea-8198-8141cfbd1923.png)
 
 * **KOTA JAKARTA PUSAT**
 ![jakpus](https://user-images.githubusercontent.com/48954802/77220669-11129e80-6b75-11ea-94c9-47e20b735d8a.png)
